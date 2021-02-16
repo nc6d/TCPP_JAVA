@@ -6,5 +6,6 @@ public class Main {
         System.out.println("I love DonNU ");
         System.out.println("I love Computer Science! ");
         System.out.println("Change 2 ALFA ");
+        System.out.println("Change from browser ");
     }
 }
